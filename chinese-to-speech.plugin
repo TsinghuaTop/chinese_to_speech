@@ -1,0 +1,11 @@
+[Plugin]
+Loader=python3
+Module=chinese-to-speech
+IAge=3
+Name=Chinese To Speech
+Description=Adds context menu item to transfer chinese to speech and play it.
+Description[zh_CN]=转换中文音频并且播放.
+Icon=gtk-open
+Authors=Bjarne Yang <tsinghuatop@qq.com>
+Copyright=Copyright © 2016 Bjarne Yang
+Website=https://github.com/TsinghuaTop/chinese-to-speech
